@@ -5,3 +5,10 @@ h1{
     display: flex;
     justify-content: center;
 }
+body{
+    background-color:#45bfef;
+    }
+body {
+    font-family: 'Amatic SC', cursive;
+    
+}
